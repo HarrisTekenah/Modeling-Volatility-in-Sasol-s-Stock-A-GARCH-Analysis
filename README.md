@@ -22,3 +22,10 @@ To use this project, clone the repository and install the required libraries:
 git clone https://github.com/HarrisTekenah/SSL-Stock-Volatility-Prediction.git
 cd SSL-Stock-Volatility-Prediction
 pip install -r requirements.txt
+
+## 🔑 API Key Setup
+
+To access stock data from Alpha Vantage, you’ll need a free API key.  
+You can get one from [Alpha Vantage](https://www.alphavantage.co/support/#api-key).
+
+Replace `<your_api_key>` in the code with your actual API key to enable API requests.
